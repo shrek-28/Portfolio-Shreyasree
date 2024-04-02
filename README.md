@@ -8,6 +8,11 @@ Welcome to my portfolio repository showcasing my journey and expertise as a Data
 - [HTML and CSS](#htmlandcss)
 
 # SQL
-| Project Link | DBMS Used | Major Functions |  Project Description |
+| Project Name | DBMS Used | Major Functions |  Project Description |
 |---|---|---|---|
 
+# HTMLandCSS
+These projects were created as a part of the Responsive Developer Challenges of [DevChallenges.io](https://devchallenges.io/path/responsive-web-developer).
+| Project Name | Project Description | Repository |  Deployment |
+|---|---|---|---|
+|Minimal Blog Card|Concepts of Basic HTML and CSS such as tags, card components, and CSS styling were used.|[Repository](https://github.com/shrek-28/minimal-blog-card)|[Deployment](https://shrek-28.github.io/minimal-blog-card/)|
