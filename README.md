@@ -11,7 +11,7 @@ Welcome to my portfolio repository showcasing my journey and expertise as a Data
 | Project Name | DBMS Used | Major Functions |  Project Description |
 |---|---|---|---|
 
-# HTML and CSS
+# HTMLandCSS
 These projects were created as a part of the Responsive Developer Challenges of [DevChallenges.io](https://devchallenges.io/path/responsive-web-developer).
 | Project Name | Project Description | Repository |  Deployment |
 |---|---|---|---|
