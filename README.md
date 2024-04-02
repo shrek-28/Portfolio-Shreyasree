@@ -8,8 +8,9 @@ Welcome to my portfolio repository showcasing my journey and expertise as a Data
 - [HTML and CSS](#htmlandcss)
 
 # SQL
-| Project Name | DBMS Used | Major Functions |  Project Description |
+| Project Name | DBMS Used | Major Functions |  Repository Link  |
 |---|---|---|---|
+| Student Analytics | PostgreSQL, PGAdmin | Subqueries, SUM, AVG, ROUND, SELECT | [Repository](https://github.com/shrek-28/student-analytics)
 
 # HTMLandCSS
 These projects were created as a part of the Responsive Developer Challenges of [DevChallenges.io](https://devchallenges.io/path/responsive-web-developer).
