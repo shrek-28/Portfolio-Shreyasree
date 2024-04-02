@@ -8,5 +8,6 @@ Welcome to my portfolio repository showcasing my journey and expertise as a Data
 - [HTML and CSS](#htmlandcss)
 
 # SQL
-| Project Link | Functions | Project Description |
-|---|---|---|
+| Project Link | DBMS Used | Major Functions |  Project Description |
+|---|---|---|---|
+
