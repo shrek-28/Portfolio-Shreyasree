@@ -4,13 +4,18 @@ Welcome to my portfolio repository showcasing my journey and expertise as a Data
 ## Table of Contents
 - [SQL](#sql)
 - [Python](#python)
-- [MS Excel](#excel)
+- [MS Excel](#MS-Excel)
 - [HTML and CSS](#html-and-css)
 
 # SQL
 | Project Name | DBMS Used | Major Functions |  Repository Link  |
 |---|---|---|---|
 | Student Analytics | PostgreSQL, PGAdmin | Subqueries, SUM, AVG, ROUND, SELECT | [Repository](https://github.com/shrek-28/student-analytics)
+
+# MS Excel
+| Name of Project | Skills Used | Link of Repository |
+| --- | --- | ---- |
+| Drug Death Analysis | Charts and Visualizations | [Repository](https://github.com/shrek-28/drug-death-analysis) | 
 
 # HTML and CSS
 These projects were created as a part of the Responsive Developer Challenges of [DevChallenges.io](https://devchallenges.io/path/responsive-web-developer).
