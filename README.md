@@ -10,7 +10,9 @@ Welcome to my portfolio repository showcasing my journey and expertise as a Data
 # SQL
 | Project Name | DBMS Used | Major Functions |  Repository Link  |
 |---|---|---|---|
-| Student Analytics | PostgreSQL, PGAdmin | Subqueries, SUM, AVG, ROUND, SELECT | [Repository](https://github.com/shrek-28/student-analytics)
+| Student Analytics | PostgreSQL, PGAdmin | Subqueries, SUM, AVG, ROUND, SELECT | [Repository](https://github.com/shrek-28/student-analytics) |
+| Danny's Diner | PostgreSQL, PGAdmin | Subqueries, JOINs, ROW_NUMBER() | [Repository](https://github.com/shrek-28/Danny-Diner-Challenge) |
+| McDonald's Menu Analysis | PostgreSQL, PGAdmin | Subqueries, SUM, AVG, ROUND, SELECT | [Repository](https://github.com/shrek-28/mc-donalds-analytics) | 
 
 # MS Excel
 | Name of Project | Skills Used | Link of Repository |
